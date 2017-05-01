@@ -1,0 +1,5 @@
+Disable all but color managment in glsl render
+
+UV unwrap object
+
+Check shadeless in material and select color from color-wheel
